@@ -1,4 +1,5 @@
 Student Grading System.
+
 This is a student grading system built using various technologies as specified in the specs. 
 The system allows students to log in to their accounts and view their marks in different courses.
 They can also select a particular course to see their mark and the class average, median, highest and lowest marks. 
