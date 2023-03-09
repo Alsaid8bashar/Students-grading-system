@@ -1,4 +1,4 @@
-Student Grading System.
+																															Student Grading System.
 
 This is a student grading system built using various technologies as specified in the specs. 
 The system allows students to log in to their accounts and view their marks in different courses.
