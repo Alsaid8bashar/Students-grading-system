@@ -7,6 +7,7 @@ The system uses MySQL as the database.
 
 Technologies Used :
 The following technologies have been used in building the system:
+
 •	Java 8
 •	MySQL
 •	JDBC
