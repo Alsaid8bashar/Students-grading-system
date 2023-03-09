@@ -6,7 +6,7 @@ median, highest, and lowest marks. The system was built using different technolo
 Technologies and Approaches Used:
 •	Command Line, Sockets, and JDBC in the backend
 •	Traditional MVC Servlets/JSPs
-•	Spring MVC/Spring REST with backend JDBC and/or Spring JDBC Template
+•	Spring MVC with Spring JDBC Template
 •	MySQL as a database
 Features:
 •	Students can login to their accounts.
